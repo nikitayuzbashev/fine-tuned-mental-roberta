@@ -1,0 +1,5 @@
+# Development dependencies — only needed for running tests locally
+# Install with: pip install -r requirements-dev.txt
+
+pytest==8.3.5
+pytest-cov==6.1.0   # generates test coverage reports with: pytest --cov=src tests/
